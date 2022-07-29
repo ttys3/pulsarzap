@@ -1,4 +1,4 @@
-package pulsarlogger
+package pulsarzap
 
 import (
 	"github.com/apache/pulsar-client-go/pulsar/log"

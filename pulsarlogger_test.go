@@ -1,4 +1,4 @@
-package pulsarlogger
+package pulsarzap
 
 import (
 	"context"
